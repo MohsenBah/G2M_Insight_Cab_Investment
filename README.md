@@ -3,7 +3,7 @@
 Still updating!
 
 
-This project aims to provide actionable insights or recommendations to help a firm in identifying the right cab company (Yellow or Pink ) for investing.
+This project aims to provide actionable insights or recommendations to help a firm in identifying the right cab company (Yellow or Pink ) to invest.
 
 Data sets:
 
